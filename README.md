@@ -20,3 +20,4 @@
 ## Uso
 
 Abre la URL pública. Busca un municipio español, acerca el mapa y pulsa «Buscar puntos comunitarios en esta zona». Para InPost usa «Abrir mapa oficial InPost» e introduce la clave autorizada.
+Primera publicación de PuntoPack
